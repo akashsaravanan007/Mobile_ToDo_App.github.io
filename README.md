@@ -5,3 +5,6 @@ One of the hottest technologies today, HTML5 is currently one of the most common
 
 
 ![todo_1](https://user-images.githubusercontent.com/58935531/87248000-ab745600-c474-11ea-9e69-5f2f27cbd093.gif)
+
+
+![todo_2](https://user-images.githubusercontent.com/58935531/87248062-fbebb380-c474-11ea-99bb-7fbb20a4822c.gif)
