@@ -1,0 +1,18 @@
+#todos span{
+	color:rgb(59, 57, 57);
+	float:right;
+	font-size:90%;
+}
+#home{
+	background-color: #dfe6e9;
+}
+#add{
+	background-color: #bdc3c7;
+}
+#edit{
+	background-color:#d1ccc0;
+}
+#footer{
+	color: #3c6382
+	
+}
